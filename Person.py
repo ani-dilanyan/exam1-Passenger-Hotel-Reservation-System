@@ -1,5 +1,4 @@
 from Date import Date
-from datetime import date
 from MyExceptions import PersonalDataTypeError, PersonalDataValueError, DateTypeError
 
 
